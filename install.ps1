@@ -1,7 +1,7 @@
 # install.ps1
 # Script de automatización de arquitectura SDD para Windows (PowerShell)
 
-$repoUrl = "https://raw.githubusercontent.com/TU_USUARIO/game-sdd-plugin/main"
+$repoUrl = "https://raw.githubusercontent.com/guiddodg/game-sdd/main"
 $rulesDir = "./.ai-rules"
 
 Write-Host "🚀 Iniciando instalación de Stack-Architecture & SDD Enforcer..." -ForegroundColor Cyan
