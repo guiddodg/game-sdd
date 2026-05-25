@@ -1,0 +1,26 @@
+{
+  "name": "@guiddodg/game-sdd",
+  "version": "1.0.0",
+  "description": "Spec-Driven Development (SDD) orchestrator for Unity & Blender game development.",
+  "main": "bin/cli.js",
+  "bin": {
+    "game-sdd": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "unity",
+    "blender",
+    "dots",
+    "ecs",
+    "sdd",
+    "spec-driven-development",
+    "agentic-coding"
+  ],
+  "author": "guiddodg",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
